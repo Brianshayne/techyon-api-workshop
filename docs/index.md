@@ -20,7 +20,7 @@ This workshop assumes you have a computer, a text editor, [Postman](www.getpostm
 
  **Security Disclaimer**
 
-I'm about to list key pairs that are used for authentication with a Shopify store. When you are developing for clients please keep your key secure, or use our oAuth implementation for authentication - don't post your keys publicly like I am. 
+I'm about to list key pairs that are used for authentication with a Shopify store. When you are developing for clients please keep your key secure, or use our oAuth implementation for authentication - don't post your keys publicly like I am. These will be purged after the workshop.
 
 **Seriously, don't**
 
