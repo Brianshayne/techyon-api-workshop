@@ -1,19 +1,39 @@
-# TASK 1: Fetching Data
-## GROUP TASK
+# TASK 9: 2X TASK 6!
+
+## SOLO TASK
 
 ### THINGS YOU NEED
-
 - YOUR LAPTOP
 - AN INTERNET CONNECTION
 - POSTMAN (https://www.getpostman.com/)
+- PEN / PAPER / NOTE APP
 
 ### GETTING STARTED
-- Make sure Postman is installed and running
-- Take out the card you were handed on the way in
+- You’ll need to forgive Dono for that last one.
 
 ### TASK
-1. First we need to authenticate - you should set your authorization to Basic Auth.
-2. We’re working in JSON here; so make sure your content-type is set to application/json
-3. To keep it simple, let’s just GET some information.
-4. What is the Shop’s ID? Write this down.
-5. What is the Shop’s address? Write this down too.
+1.Two more orders please. Use any combination of your customers and products.
+2. Order ID 1: Write this down somewhere
+3. Order ID 2: Write this down somewhere
+4. Order ID 3: Write this down somewhere
+
+
+[Go Back](task8.md) | [Done? Move on. WARNING: THERE BE DRAGONS](task11.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why am I doing this?
+Because - trying to prove a point. Also it’s good practice. Something something rote.

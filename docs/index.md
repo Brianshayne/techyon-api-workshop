@@ -1,12 +1,12 @@
-# Hi!
----
+# Shopify API - A Workshop
 
-### Workshop Title
+
+### Title
 
 Getting Started with Shopify's API
 
 
-### Workshop Audience
+### Audience
 
 From beginnings, through to experts - with a focus on API familiarity before diving in and creating an app or script.
 

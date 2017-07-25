@@ -1,19 +1,24 @@
-# TASK 1: Fetching Data
-## GROUP TASK
+# TASK 8: ORDER OOPS!
+
+## SOLO TASK
 
 ### THINGS YOU NEED
-
 - YOUR LAPTOP
 - AN INTERNET CONNECTION
 - POSTMAN (https://www.getpostman.com/)
+- PEN / PAPER / NOTE APP
 
 ### GETTING STARTED
-- Make sure Postman is installed and running
-- Take out the card you were handed on the way in
+- You’ll need that order object from the last task.
 
 ### TASK
-1. First we need to authenticate - you should set your authorization to Basic Auth.
-2. We’re working in JSON here; so make sure your content-type is set to application/json
-3. To keep it simple, let’s just GET some information.
-4. What is the Shop’s ID? Write this down.
-5. What is the Shop’s address? Write this down too.
+1. OK - so, you forgot an item on that order. Why don’t you PUT something else on it.
+2. Stuck? Phone a friend. (Or turn to the person next to you)
+3. Are you thinking about just generating a new order with the new line item? This is a good workaround - but not the solution.
+4. Still stuck eh?
+5. What have you learned about Shopify orders?
+
+#### Stuck?
+Ask your volunteer the secret.
+
+[Go Back](task7.md) | [Move on](task9.md)

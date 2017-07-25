@@ -1,10 +1,12 @@
 ### TASK 2: Creating Data
+
 ## GROUP TASK
 
 ### THINGS YOU NEED
 - YOUR LAPTOP
 - AN INTERNET CONNECTION
 - POSTMAN (https://www.getpostman.com/)
+- PEN / PAPER / NOTE APP
 
 ### GETTING STARTED
 - Make sure Postman is installed and running
@@ -18,3 +20,5 @@
 
 #### Stuck?
 Try searching for a doc relating to Shopify + Postman. Hint: It’ll be an official Shopify doc.
+
+[Go Back](task1.md) | [Move on](task3.md)
