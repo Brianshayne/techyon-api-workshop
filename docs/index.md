@@ -1,6 +1,5 @@
 # Shopify API - A Workshop
 
-
 ### Title
 
 Getting Started with Shopify's API

@@ -10,10 +10,10 @@
 
 ### GETTING STARTED
 - A good understanding of the above
-- The ability to either write a shell script or stand up a quick app. See the tools above to make this easier if you’re using Ruby and Rails
+- The ability to either write a shell script or stand up a quick app. [Task 4](task4.md) has a hint for you.
 
 ### TASK
-1. You’ve learnt the basics, now let’s wrap it together. You’re now a developer for jessesfantasticwidgets.com. Your customer needs to import products into their store. They receive data feeds from their supplier in this format: Download [the csv here](/assets/techyon_workshop_import.csv)
+1. You’ve learnt the basics, now let’s wrap it together. You’re now a developer for jessesfantasticwidgets.com. Your customer needs to import products into their store. They receive data feeds from their supplier in this format: Download [the csv here](https://raw.githubusercontent.com/Brianshayne/techyon-api-workshop/master/assets/techyon_workshop_import.csv)
 2. Please import and create products from this format, using the CSV above - mapping it to Shopify’s format.
 3. Please write your Shopify product IDs in the space provided on the import.
 4. From here, generate an order using some of the products you’ve just created.
