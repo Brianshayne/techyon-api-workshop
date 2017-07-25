@@ -17,23 +17,4 @@
 3. Order ID 2: Write this down somewhere
 4. Order ID 3: Write this down somewhere
 
-
 [Go Back](task8.md) | [Done? Move on. WARNING: THERE BE DRAGONS](task11.md)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Why am I doing this?
-Because - trying to prove a point. Also it’s good practice. Something something rote.
