@@ -13,7 +13,7 @@
 - You’re cruising through these tasks - give yourself a pat on the back.
 
 ### TASK
-1. Go here: https://github.com/lojabasico/shopify-postman
+1. Go here: [](https://github.com/lojabasico/shopify-postman)
 2. Download the zip of the repo.
 3. Click on the gear icon, and select “manage environments”
 4. Follow the readme in the above repo to set up your variables by entering them as keys with values.
