@@ -21,7 +21,7 @@ This workshop assumes you have a computer, a text editor, [Postman](www.getpostm
 
 ## Table of Contents
 
-1. Task 1 (Group)
+1. [Task 1 (Group)](task1.md)
 2. Task 2 (Group)
 3. Task 3 (Solo)
 4. Task 4 (Solo)
