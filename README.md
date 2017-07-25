@@ -17,7 +17,7 @@ Contained is the MD for the workshop website, as well as a markdown version of m
 
 ### Helpful links
 
-[Shopify API docs](https://help.shopify.com/api)
-[Postman](https://getpostman.com)
-An excellent [Postman collection](https://github.com/lojabasico/shopify-postman) for Shopify, created by a Shopify Partner.
+- [Shopify API docs](https://help.shopify.com/api)
+- [Postman](https://getpostman.com)
+- An excellent [Postman collection](https://github.com/lojabasico/shopify-postman) for Shopify, created by a Shopify Partner.
 
