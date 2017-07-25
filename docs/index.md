@@ -1,17 +1,17 @@
-# Hi
+# Hi!
+---
 
-
-## Workshop Title
+### Workshop Title
 
 Getting Started with Shopify's API
 
 
-## Workshop Audience
+### Workshop Audience
 
 From beginnings, through to experts - with a focus on API familiarity before diving in and creating an app or script.
 
 
-## About the Author
+### About the Author
 
 Brian Donohue is a Solutions Engineer at Shopify Plus, in Waterloo Ontario. He's been with Shopify for 3 years, and his role includes concepting out third party integrations with Shopify, making sure they scale and determining fit for new customers on Shopify Plus.
 
@@ -19,7 +19,7 @@ Brian Donohue is a Solutions Engineer at Shopify Plus, in Waterloo Ontario. He's
 
 This workshop assumes you have a computer, a text editor, [Postman](www.getpostman.com) and a sense of humour.
 
-## Table of Contents
+### Table of Contents
 
 1. [Task 1 (Group)](task1.md)
 2. [Task 2 (Group)](task2.md)
