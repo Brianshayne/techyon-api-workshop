@@ -2,7 +2,7 @@
 
 ### Title
 
-Getting Started with Shopify's API
+Getting Started with Shopify's API http://tinyurl.com/techyonrocks
 
 ### Audience
 
