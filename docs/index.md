@@ -77,5 +77,7 @@ Password: a8c0f74bfc00032e56fee6a486a23591
 10. [TURN IT UP TO 11 (Solo)](task11.md)
 
 ### Useful stuff
+[Shopify Docs](https://help.shopify.com/api)
+[What's an API?](http://www.webopedia.com/TERM/A/API.html)
 
 
