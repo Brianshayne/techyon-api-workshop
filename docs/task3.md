@@ -5,7 +5,7 @@
 ###THINGS YOU NEED
 - YOUR LAPTOP
 - AN INTERNET CONNECTION
-- POSTMAN (https://www.getpostman.com/)
+- [POSTMAN](https://www.getpostman.com/)
 - PEN / PAPER / NOTE APP
 
 ### GETTING STARTED

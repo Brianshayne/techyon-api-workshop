@@ -5,7 +5,8 @@
 ### THINGS YOU NEED
 - YOUR LAPTOP
 - AN INTERNET CONNECTION
-- POSTMAN (https://www.getpostman.com/)
+- [POSTMAN](https://www.getpostman.com/) (maybe)
+- A dev environment of some sort. You choose. This is a stretch goal.
 
 ### GETTING STARTED
 - A good understanding of the above
