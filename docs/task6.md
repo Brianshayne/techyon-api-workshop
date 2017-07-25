@@ -22,4 +22,4 @@ Psssst: You’re creating a product. Use the stuck hints from before to try to f
 #### Extra credit?
 Don’t write down your product IDs, use an API call to list them. Note: Others will be working in the same store as you, so maybe note those IDs - but if you’re feeling ambitious try this anyway.
 
-[Go Back](task5.md) | [Move on](task7.md)
+[Go Back](task5.md) | [Move on](task7.md) | [Go Home](index.md) 

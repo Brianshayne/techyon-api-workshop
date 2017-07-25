@@ -20,4 +20,4 @@
 #### Stuck?
 Try searching for a doc relating to Shopify + customers + api. Look for something about updating. Hint: It’ll be an official Shopify doc.
 
-[Go Back](task2.md) | [Move on](task4.md)
+[Go Back](task2.md) | [Move on](task4.md) | [Go Home](index.md)

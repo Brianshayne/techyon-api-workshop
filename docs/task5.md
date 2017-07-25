@@ -19,4 +19,4 @@
 #### Stuck?
 Psssst: You’re creating a product. Use the stuck hints from before to try to find the doc. Don’t forget Postman has a template for this.
 
-[Go Back](task4.md) | [Move on](task6.md)
+[Go Back](task4.md) | [Move on](task6.md) | [Go Home](index.md)

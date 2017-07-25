@@ -21,4 +21,4 @@
 #### Stuck?
 Try searching for a doc relating to Shopify + Postman. Hint: It’ll be an official Shopify doc.
 
-[Go Back](task1.md) | [Move on](task3.md)
+[Go Back](task1.md) | [Move on](task3.md) | [Go Home](index.md)

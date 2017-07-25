@@ -21,4 +21,4 @@
 #### Stuck?
 Ask your volunteer the secret.
 
-[Go Back](task7.md) | [Move on](task9.md)
+[Go Back](task7.md) | [Move on](task9.md) | [Go Home](index.md)

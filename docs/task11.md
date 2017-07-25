@@ -22,4 +22,4 @@
 #### STUCK?
 Try finding a gem or library to help you parse the CSV
 
-[Go Back](task9.md) | [Go back to overview](index.md)
+[Go Back](task9.md) | [Go home](index.md) | [Watch this video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)

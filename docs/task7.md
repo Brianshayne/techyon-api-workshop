@@ -23,4 +23,4 @@
 ####Stuck?
 I broke the pattern, and the hint is the 4th task.
 
-[Go Back](task6.md) | [Move on](task8.md)
+[Go Back](task6.md) | [Move on](task8.md) | [Go Home](index.md)

@@ -26,4 +26,4 @@ If you’re stuck on installing the collection, flag a volunteer.
 #### Extra credit?
 If you’ve totally ignored any of the above steps and decided to *not* use Postman; well… I’m a task sheet, not a cop. Here’s a framework for Rails engine and basic app: https://github.com/Shopify/shopify_app as well as a Ruby gem: https://github.com/Shopify/shopify_api If you turn it up to 11, you might want these so don’t forget :)
 
-[Go Back](task3.md) | [Move on](task5.md)
+[Go Back](task3.md) | [Move on](task5.md) | [Go Home](index.md)

@@ -19,4 +19,4 @@
 4. What is the Shop’s ID? Write this down.
 5. What is the Shop’s address? Write this down too.
 
-[Go Back](index.md) | [Move on](task2.md)
+[Go Back](index.md) | [Move on](task2.md) | [Go Home](index.md)
