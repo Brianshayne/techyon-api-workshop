@@ -1,4 +1,4 @@
-# Shopify API - A Workshop
+# http://tinyurl.com/techyonrocks
 
 ### Title
 
